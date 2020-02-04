@@ -1,0 +1,67 @@
+{
+  "title": "Recipe Puppy",
+  "version": 0.1,
+  "href": "http://www.recipepuppy.com/",
+  "results": [
+    {
+      "title": "Amarula Blended (Shake)",
+      "href": "http://www.recipezaar.com/Amarula-Blended-Shake-294327",
+      "ingredients": "milk, amarula cream liqueur, ice, kahlua",
+      "thumbnail": "http://img.recipepuppy.com/59223.jpg"
+    },
+    {
+      "title": "Amarula Final&Eacute;",
+      "href": "http://www.recipezaar.com/Amarula-FinalEacute-220556",
+      "ingredients": "amarula cream liqueur, chocolate, chocolate syrup, cream, coffee, ice cream, maraschino cherries",
+      "thumbnail": "http://img.recipepuppy.com/59236.jpg"
+    },
+    {
+      "title": "Amarula-Rula",
+      "href": "http://www.recipezaar.com/Amarula-Rula-305058",
+      "ingredients": "amarula cream liqueur, liqueur, cream",
+      "thumbnail": "http://img.recipepuppy.com/59474.jpg"
+    },
+    {
+      "title": "Chocolate and Amarula-Mousse",
+      "href": "http://www.recipezaar.com/Chocolate-and-Amarula-Mousse-220560",
+      "ingredients": "amarula cream liqueur, butter, almond, cream, chocolate, eggs, salt",
+      "thumbnail": "http://img.recipepuppy.com/304742.jpg"
+    },
+    {
+      "title": "Amarula Delight",
+      "href": "http://www.recipezaar.com/Amarula-Delight-184672",
+      "ingredients": "amarula cream liqueur, coke, milk, vanilla ice cream",
+      "thumbnail": "http://img.recipepuppy.com/35254.jpg"
+    },
+    {
+      "title": "Amarula Colada",
+      "href": "http://www.recipezaar.com/Amarula-Colada-220197",
+      "ingredients": "amarula cream liqueur, cream of coconut, pineapple juice, rum",
+      "thumbnail": "http://img.recipepuppy.com/38188.jpg"
+    },
+    {
+      "title": "Amarula Frapp&eacute;",
+      "href": "http://www.recipezaar.com/Amarula-Frappeacute-179482",
+      "ingredients": "amarula cream liqueur, coffee, espresso beans, chocolate ice cream, milk, whipped cream",
+      "thumbnail": "http://img.recipepuppy.com/59242.jpg"
+    },
+    {
+      "title": "Amarula Caf&eacute; De Cocoa",
+      "href": "http://www.recipezaar.com/Amarula-Cafeacute-De-Cocoa-217549",
+      "ingredients": "amarula cream liqueur, butterscotch schnapps, cocoa powder, coffee",
+      "thumbnail": "http://img.recipepuppy.com/59329.jpg"
+    },
+    {
+      "title": "Amarula Drumsticks",
+      "href": "http://www.recipezaar.com/Amarula-Drumsticks-185290",
+      "ingredients": "amarula cream liqueur, bay leaves, chicken drumstick, garlic chives, lemon juice, marmalade, flour, sea salt, toothpicks",
+      "thumbnail": "http://img.recipepuppy.com/59341.jpg"
+    },
+    {
+      "title": "Amarula Granita",
+      "href": "http://www.recipezaar.com/Amarula-Granita-318437",
+      "ingredients": "amarula cream liqueur, espresso, cream, ice, sugar, vodka",
+      "thumbnail": "http://img.recipepuppy.com/59349.jpg"
+    }
+  ]
+}
