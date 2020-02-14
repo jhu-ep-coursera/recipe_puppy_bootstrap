@@ -15,6 +15,12 @@ Something like below...
 
 ## Getting Started
 
+#### Prerequisites
+
+This template was tested with Ruby **2.6.3** and Ruby on Rails **4.2.11**.
+
+#### Bootstrapping
+
 1. Clone this repo - `git clone https://github.com/jhu-ep-coursera/recipe_puppy_bootstrap.git`
 2. Switch into the newly-cloned directory`cd recipe_puppy_bootstrap`
 3. Run `bundle install` to install all the necessary gems
@@ -86,4 +92,39 @@ As you can see, if you have implemented the requirements so far correctly, all b
 
 Take a look at the [sanitize](https://api.rubyonrails.org/v4.2.11/classes/ActionView/Helpers/SanitizeHelper.html#method-i-sanitize) view helper to see how to easily accomplish this task
 
+After implementing the final requirements in your app, all the tests should pass when running `rspec`:
+
+![image](https://user-images.githubusercontent.com/869312/74499985-7955cc80-4eb3-11ea-8758-45010b753e39.png)
+
 ## Submission
+
+Now that your local tests are passing - you are ready to submit your assignment!!
+
+#### What needs to be submitted
+
+The automated grader is looking for 3 files:
+
+1.  `config/routes.rb`
+2.  `app/controllers/recipes_controller.rb`
+3.  `app/views/recipes/index.html.erb`
+
+#### 2 ways to create the zip file
+
+I recommend using `git` to create your zip file for submission. Below are the necessary steps:
+
+1.  Create your `git` repo with`git init`
+2.  Add all the files to it with `git add .`
+3.  Commit the files to the repo with `git commit -m 'YAY - my tests are passing'`
+4.  Create the zip file with `git archive -o mysubmission.zip HEAD app config`
+
+The `git archive` command above basically tells `git` to create a zip file from your latest `commit` and to only include the `app` and `config` folder in that zip file. The zip file will be found in the directory where you ran the `git archive` command.
+
+At this point you are ready to submit your newly created zip file!!!
+
+If the submission fails and you need to make tweaks to your code - remember to commit your changes to the repo and create another zip file...
+
+Of course, if you don't want to create the zip file using `git archive`, you can just create the zip file the way you know how - just make sure that the `app` and `config` folders are in there.
+
+Good luck!!!
+
+-Kalman Hazins
